@@ -3,5 +3,5 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/modeling-inversion-lab/awesome-metaheuristic-algorithms)
 ![GitHub last commit](https://img.shields.io/github/last-commit/modeling-inversion-lab/awesome-metaheuristic-algorithms)
 
-# awesome-metaheuristic-algorithms
+# Awesome Metaheuristic Algorithms
 Purpose of this repository is to collect and archive metaheuristic algorithms and their applications in geophysics.
