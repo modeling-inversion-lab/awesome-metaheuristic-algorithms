@@ -5,9 +5,9 @@
 
 # Awesome Metaheuristic Algorithms
 Purpose of this repository is to collect and archive metaheuristic algorithms and their applications in geophysics.
-+ Simulated annealing (Kirkpatrick, 1983)
-+ Ant colony optimization (Dorigo, 1992)
-+ Particle swarm optimization (Kennedy, 1995)
++ [Simulated annealing](https://science.sciencemag.org/content/220/4598/671) (Kirkpatrick, 1983)
++ [Ant colony optimization](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30164-8_22) (Dorigo, 1992)
++ [Particle swarm optimization](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30164-8_630) (Kennedy, 1995)
 + Harmony search (Geem, 2001)
 + Artificial bee colony algorithm (Karaboga, 2005)
 + Bees algorithm (Pham, 2005)
