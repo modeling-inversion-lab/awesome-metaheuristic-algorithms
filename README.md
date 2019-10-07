@@ -28,15 +28,15 @@ Purpose of this repository is to collect and archive metaheuristic algorithms an
 + [Colliding bodies optimization](https://www.sciencedirect.com/science/article/abs/pii/S0045794914000935) (Kaveh, 2014)
 + [Duelist Algorithm](https://link.springer.com/chapter/10.1007/978-3-319-41000-5_4) (Biyanto, 2016)
 + [Harris hawks optimization](https://pdfs.semanticscholar.org/830b/b0525e63a64cc0e92b39c7e544f224b45805.pdf) (DeBruyne, 2016)
-+ [The Whale Optimization Algorithm](https://www.sciencedirect.com/science/article/pii/S0965997816300163)(Mirjalili, 2016)
++ [The Whale Optimization Algorithm](https://www.sciencedirect.com/science/article/pii/S0965997816300163) (Mirjalili, 2016)
 + [Emperor Penguins Colony](https://www.sciencedirect.com/science/article/abs/pii/S095070511830296X) (Dhiman, 2018)
 
 # Books
-+ **2005**. J Dréo, et. al. Metaheuristics for Hard Optimization [(link)](https://link.springer.com/book/10.1007/3-540-30966-7)
-+ **2014**. Xin-She Yang. Nature-Inspired Optimization Algorithms [(link)](https://www.sciencedirect.com/book/9780124167438/nature-inspired-optimization-algorithms)
-+ **2018**. Teofilo F Gonzalez. Handbook of Approximation Algorithms and Metaheuristics, Second Edition: Methologies and Traditional Applications, Volume 1 [(link)](https://www.crcpress.com/Handbook-of-Approximation-Algorithms-and-Metaheuristics-Second-Edition/Gonzalez/p/book/9781498770156)
-+ **2018**. Teofilo F Gonzalez. Handbook of Approximation Algorithms and Metaheuristics, Second Edition: Methologies and Traditional Applications, Volume 2 [(link)](https://www.crcpress.com/Handbook-of-Approximation-Algorithms-and-Metaheuristics-Contemporary-and/Gonzalez/p/book/9781498769990)
-+ **2019**. Michel Gendreau and Jean-Yves Potvin. Handbook of Metaheuristics. Springer International Publishing [(link)](https://www.springer.com/gp/book/9781441916631)
++ **2005**. J Dréo, et. al. Metaheuristics for Hard Optimization ([link](https://link.springer.com/book/10.1007/3-540-30966-7))
++ **2014**. Xin-She Yang. Nature-Inspired Optimization Algorithms ([link](https://www.sciencedirect.com/book/9780124167438/nature-inspired-optimization-algorithms))
++ **2018**. Teofilo F Gonzalez. Handbook of Approximation Algorithms and Metaheuristics, Second Edition: Methologies and Traditional Applications, Volume 1 ([link](https://www.crcpress.com/Handbook-of-Approximation-Algorithms-and-Metaheuristics-Second-Edition/Gonzalez/p/book/9781498770156))
++ **2018**. Teofilo F Gonzalez. Handbook of Approximation Algorithms and Metaheuristics, Second Edition: Methologies and Traditional Applications, Volume 2 ([link](https://www.crcpress.com/Handbook-of-Approximation-Algorithms-and-Metaheuristics-Contemporary-and/Gonzalez/p/book/9781498769990))
++ **2019**. Michel Gendreau and Jean-Yves Potvin. Handbook of Metaheuristics. Springer International Publishing ([link](https://www.springer.com/gp/book/9781441916631))
 
 ### Reference
 1. [Wikipedia: List of metaphor-based metaheuristics](https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics)
