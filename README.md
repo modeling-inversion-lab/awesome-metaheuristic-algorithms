@@ -32,11 +32,16 @@ Purpose of this repository is to collect and archive metaheuristic algorithms an
 + [Emperor Penguins Colony](https://www.sciencedirect.com/science/article/abs/pii/S095070511830296X) (Dhiman, 2018)
 
 # Books
-+ **2005**. J Dréo, et. al. Metaheuristics for Hard Optimization ([link](https://link.springer.com/book/10.1007/3-540-30966-7))
-+ **2014**. Xin-She Yang. Nature-Inspired Optimization Algorithms ([link](https://www.sciencedirect.com/book/9780124167438/nature-inspired-optimization-algorithms))
-+ **2018**. Teofilo F Gonzalez. Handbook of Approximation Algorithms and Metaheuristics, Second Edition: Methologies and Traditional Applications, Volume 1 ([link](https://www.crcpress.com/Handbook-of-Approximation-Algorithms-and-Metaheuristics-Second-Edition/Gonzalez/p/book/9781498770156))
-+ **2018**. Teofilo F Gonzalez. Handbook of Approximation Algorithms and Metaheuristics, Second Edition: Methologies and Traditional Applications, Volume 2 ([link](https://www.crcpress.com/Handbook-of-Approximation-Algorithms-and-Metaheuristics-Contemporary-and/Gonzalez/p/book/9781498769990))
-+ **2019**. Michel Gendreau and Jean-Yves Potvin. Handbook of Metaheuristics. Springer International Publishing ([link](https://www.springer.com/gp/book/9781441916631))
++ **2005**. J Dréo, et. al. Metaheuristics for Hard Optimization ([link](https://link.springer.com/book/10.1007/3-540-30966-7)).
++ **2008**. Christian Blum, Maria Jose Blesa Aguilera, Andrea Roli, Michael Sampels. Hybrid Metaheuristics: An Emerging Approach to Optimization ([link](https://www.springer.com/gp/book/9783540782940)).
++ **2009**. El-Ghazali Talbi. Metaheuristics: from design to implementation ([link](https://www.wiley.com/en-us/Metaheuristics%3A+From+Design+to+Implementation+-p-9780470278581)).
++ **2011**. Sean Luke. Essentials of Metaheuristics ([link](https://www.amazon.com/Essentials-Metaheuristics-Second-Sean-Luke/dp/1300549629)).
++ **2014**. Xin-She Yang. Nature-Inspired Optimization Algorithms ([link](https://www.sciencedirect.com/book/9780124167438/nature-inspired-optimization-algorithms)).
++ **2016**. Ke-Lin Du and M. N. S. Swamy. Search and Optimization by Metaheuristics: Techniques and Algorithms Inspired by Nature ([link](https://www.springer.com/gp/book/9783319411910)).
++ **2018**. Bastien Chopard, Marco Tomassini. An Introduction to Metaheuristics for Optimization ([link](https://www.springer.com/gp/book/9783319930725)). 
++ **2018**. Teofilo F Gonzalez. Handbook of Approximation Algorithms and Metaheuristics, Second Edition: Methologies and Traditional Applications, Volume 1 ([link](https://www.crcpress.com/Handbook-of-Approximation-Algorithms-and-Metaheuristics-Second-Edition/Gonzalez/p/book/9781498770156)).
++ **2018**. Teofilo F Gonzalez. Handbook of Approximation Algorithms and Metaheuristics, Second Edition: Methologies and Traditional Applications, Volume 2 ([link](https://www.crcpress.com/Handbook-of-Approximation-Algorithms-and-Metaheuristics-Contemporary-and/Gonzalez/p/book/9781498769990)).
++ **2019**. Michel Gendreau and Jean-Yves Potvin. Handbook of Metaheuristics. Springer International Publishing ([link](https://www.springer.com/gp/book/9781441916631)).
 
 ### Reference
 1. [Wikipedia: List of metaphor-based metaheuristics](https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics)
