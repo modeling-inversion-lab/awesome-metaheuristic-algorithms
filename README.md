@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/modeling-inversion-lab/awesome-metaheuristic-algorithms)
 
 # Awesome Metaheuristic Algorithms
-Purpose of this repository is to collect and archive metaheuristic algorithms and their applications in geophysics. Format of the lists is algorithm name (author, year)[state-of-the-art method in geophysics]
+Purpose of this repository is to collect and archive metaheuristic algorithms and their applications in geophysics. Format of the lists is algorithm name (author, year) [state-of-the-art method in geophysics]
 
 + [Simulated annealing](https://science.sciencemag.org/content/220/4598/671) (Kirkpatrick, 1983)
 + [Ant colony optimization](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30164-8_22) (Dorigo, 1992)
