@@ -11,7 +11,7 @@ Purpose of this repository is to collect and archive metaheuristic algorithms an
 + [Particle swarm optimization](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30164-8_630) (Kennedy, 1995) [{R Shaw, S Srivastava - Geophysics, 2007}](https://library.seg.org/doi/abs/10.1190/1.2432481)
 + [Harmony search](https://journals.sagepub.com/doi/abs/10.1177/003754970107600201) (Geem, 2001)
 + [Artificial bee colony](https://pdfs.semanticscholar.org/015d/f4d97ed1f541752842c49d12e429a785460b.pdf) (Karaboga, 2005)
-+ [Bees algorithm](rms.scu.ac.ir/Files/Articles/Conferences/Abstract/Mechanical-Published.pdf20096245725734.pdf) (Pham, 2005)
++ [Bees algorithm](rms.scu.ac.ir/Files/Articles/Conferences/Abstract/Mechanical-Published.pdf20096245725734.pdf) (Pham, 2005) [{X Song, et. al - Computers & Geosciences, 2015}](https://www.sciencedirect.com/science/article/pii/S0098300415300182)
 + [Glowworm swarm optimization](https://dl.acm.org/citation.cfm?id=1542054) (Krishnanand, 2005)
 + [Shuffled frog leaping](https://www.tandfonline.com/doi/abs/10.1080/03052150500384759) (Eusuff, 2006)
 + [Cat Swarm Optimization](https://link.springer.com/chapter/10.1007/978-3-540-36668-3_94) (Chu, 2006)
