@@ -6,9 +6,9 @@
 # Awesome Metaheuristic Algorithms
 Purpose of this repository is to collect and archive metaheuristic algorithms and their applications in geophysics. Format of the lists is algorithm name (author, year) {state-of-the-art method in geophysics}
 
-+ [Simulated annealing](https://science.sciencemag.org/content/220/4598/671) (Kirkpatrick, 1983)[{MK Sen, PL Stoffa - Geophysics, 1991}](https://library.seg.org/doi/abs/10.1190/1.1442973)
-+ [Ant colony optimization](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30164-8_22) (Dorigo, 1992)[{S Yuan, S Wang, N Tian - Applied Geophysics, 2009 - Springer}](https://link.springer.com/article/10.1007/s11770-009-0018-x)
-+ [Particle swarm optimization](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30164-8_630) (Kennedy, 1995)
++ [Simulated annealing](https://science.sciencemag.org/content/220/4598/671) (Kirkpatrick, 1983) [{MK Sen, PL Stoffa - Geophysics, 1991}](https://library.seg.org/doi/abs/10.1190/1.1442973)
++ [Ant colony optimization](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30164-8_22) (Dorigo, 1992) [{S Yuan, S Wang, N Tian - Applied Geophysics, 2009 - Springer}](https://link.springer.com/article/10.1007/s11770-009-0018-x)
++ [Particle swarm optimization](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30164-8_630) (Kennedy, 1995) [{R Shaw, S Srivastava - Geophysics, 2007 - library.seg.org}](https://library.seg.org/doi/abs/10.1190/1.2432481)
 + [Harmony search](https://journals.sagepub.com/doi/abs/10.1177/003754970107600201) (Geem, 2001)
 + [Artificial bee colony](https://pdfs.semanticscholar.org/015d/f4d97ed1f541752842c49d12e429a785460b.pdf) (Karaboga, 2005)
 + [Bees algorithm](rms.scu.ac.ir/Files/Articles/Conferences/Abstract/Mechanical-Published.pdf20096245725734.pdf) (Pham, 2005)
