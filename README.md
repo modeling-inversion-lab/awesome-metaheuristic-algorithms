@@ -19,8 +19,8 @@ Purpose of this repository is to collect and archive metaheuristic algorithms an
 + [River formation dynamics](https://link.springer.com/chapter/10.1007/978-3-540-73554-0_16) (Rabanal, 2007)
 + [Intelligent water drops](https://ieeexplore.ieee.org/abstract/document/4424885) (Shah-Hosseini 2007)
 + [Gravitational search](https://www.sciencedirect.com/science/article/pii/S0020025509001200) (Rashedi, 2009)
-+ [Cuckoo search](https://arxiv.org/abs/1005.2908) (Yang, 2009) [{Hakim Saibi, Reza Toushmalani, 2015}](https://library.seg.org/doi/abs/10.1190/nsapc2015-052)
-+ [Bat algorithm](https://link.springer.com/chapter/10.1007/978-3-642-12538-6_6) (Yang, 2010) [{Rashed Poormirzaee, at. al, 2019}](https://library.seg.org/doi/abs/10.2113/JEEG24.2.201)
++ [Cuckoo search](https://arxiv.org/abs/1005.2908) (Yang, 2009) [{Hakim Saibi, Reza Toushmalani - Near Surface APC, 2015}](https://library.seg.org/doi/abs/10.1190/nsapc2015-052)
++ [Bat algorithm](https://link.springer.com/chapter/10.1007/978-3-642-12538-6_6) (Yang, 2010) [{Rashed Poormirzaee, at. al - Journal of Environmental and Engineering Geophysics, 2019}](https://library.seg.org/doi/abs/10.2113/JEEG24.2.201)
 + [Spiral optimization (SPO)](https://ieeexplore.ieee.org/abstract/document/6557686) (Tamura, 2011)
 + [Flower pollination](https://link.springer.com/chapter/10.1007/978-3-642-32894-7_27) (Yang, 2012)
 + [Cuttlefish optimization](https://www.researchgate.net/profile/Adel_Eesa/publication/281594045_A_Novel_Bio-Inspired_Optimization_Algorithm/links/55f7297108aec948c468f376/A-Novel-Bio-Inspired-Optimization-Algorithm.pdf) (Eesa, 2013)
@@ -45,5 +45,5 @@ Purpose of this repository is to collect and archive metaheuristic algorithms an
 + **2019**. Michel Gendreau and Jean-Yves Potvin. Handbook of Metaheuristics. Springer International Publishing ([link](https://www.springer.com/gp/book/9781441916631)).
 
 ### Reference
-1. [Wikipedia: List of metaphor-based metaheuristics](https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics)
++ [Wikipedia: List of metaphor-based metaheuristics](https://en.wikipedia.org/wiki/List_of_metaphor-based_metaheuristics)
 
