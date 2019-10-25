@@ -9,7 +9,7 @@ Purpose of this repository is to collect and archive metaheuristic algorithms an
 + [Simulated annealing](https://science.sciencemag.org/content/220/4598/671) (Kirkpatrick, 1983) [{MK Sen, PL Stoffa - Geophysics, 1991}](https://library.seg.org/doi/abs/10.1190/1.1442973)
 + [Ant colony optimization](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30164-8_22) (Dorigo, 1992) [{S Yuan, S Wang, N Tian - Applied Geophysics, 2009}](https://link.springer.com/article/10.1007/s11770-009-0018-x)
 + [Particle swarm optimization](https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30164-8_630) (Kennedy, 1995) [{R Shaw, S Srivastava - Geophysics, 2007}](https://library.seg.org/doi/abs/10.1190/1.2432481)
-+ [Harmony search](https://journals.sagepub.com/doi/abs/10.1177/003754970107600201) (Geem, 2001)
++ [Harmony search](https://journals.sagepub.com/doi/abs/10.1177/003754970107600201) (Geem, 2001) [{Ali Haydar Kayhan, et. al - Soil Dynamics and Earthquake Engineering, 2011}](https://www.sciencedirect.com/science/article/pii/S0267726111000959)
 + [Artificial bee colony](https://pdfs.semanticscholar.org/015d/f4d97ed1f541752842c49d12e429a785460b.pdf) (Karaboga, 2005) [{Xianhai Song, et. al - Computers & Geosciences, 2015}](https://www.sciencedirect.com/science/article/pii/S0098300415300182)
 + [Bees algorithm](rms.scu.ac.ir/Files/Articles/Conferences/Abstract/Mechanical-Published.pdf20096245725734.pdf) (Pham, 2005) [{X Song, et. al - Computers & Geosciences, 2015}](https://www.sciencedirect.com/science/article/pii/S0098300415300182)
 + [Glowworm swarm optimization](https://dl.acm.org/citation.cfm?id=1542054) (Krishnanand, 2005)
